@@ -1,0 +1,31 @@
+Artificial intelligence is transforming industries by enabling automation and smarter decision-making.
+Machine learning models learn patterns from data to make accurate predictions.
+Deep learning is a subset of machine learning that uses neural networks with multiple layers.
+Large language models are capable of understanding and generating human-like text.
+Vector databases such as Qdrant are optimized for storing and searching high-dimensional embeddings.
+Semantic search retrieves results based on meaning instead of keyword matching.
+Natural language processing enables computers to understand human language.
+Python is one of the most popular languages for AI and machine learning development.
+Reinforcement learning teaches agents to make decisions through trial and error.
+Computer vision allows machines to extract information from images and videos.
+Neural networks are inspired by the structure of the human brain.
+Generative AI models can create text, images, audio, and even video content.
+FastAPI is a modern and fast framework for building APIs in Python.
+Cloud platforms like AWS and Azure provide scalable infrastructure for AI applications.
+Transformers have become the dominant architecture in natural language processing.
+Embeddings convert text into numerical vectors that capture semantic meaning.
+Hybrid search combines vector similarity with keyword-based search for better accuracy.
+Knowledge graphs store information in a structured way using entities and relationships.
+Text chunking helps break long documents into meaningful smaller pieces.
+Open-source models provide freedom and flexibility for developers to build custom solutions.
+Tokenization is the process of converting text into smaller units for model processing.
+Retrieval-augmented generation improves accuracy by combining search with generation.
+Neural ranking models improve search relevance by scoring candidate results.
+CPU-friendly embedding models allow semantic search on low-resource machines.
+Data preprocessing improves the quality of machine learning models.
+Machine learning workflows often include training, validation, and testing phases.
+Feature engineering helps extract useful patterns from raw data.
+AI ethics ensures technology is used responsibly and without bias.
+Optimization algorithms help models learn faster and more efficiently.
+Clustering groups similar data points together without supervision.
+Dimensionality reduction helps visualize and compress high-dimensional data.
