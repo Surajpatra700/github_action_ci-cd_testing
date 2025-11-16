@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+input/
+.git/
+.gitignore
+.env
+*.model
+*.bin
+*.pt
+*.pth
